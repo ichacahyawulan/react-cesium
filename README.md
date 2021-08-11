@@ -7,7 +7,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Before you start running the project, run this command:
 
 ```
-npm install
 yarn add @craco/craco craco-cesium cesium resium
 yarn add craco-plugin-react-hot-reload react-hot-loader @hot-loader/react-dom
 ```
