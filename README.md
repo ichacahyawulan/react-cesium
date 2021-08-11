@@ -2,6 +2,16 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Setup Project
+
+Before you start running the project, run this command:
+
+```
+npm install
+yarn add @craco/craco craco-cesium cesium resium
+yarn add craco-plugin-react-hot-reload react-hot-loader @hot-loader/react-dom
+```
+
 ## Available Scripts
 
 In the project directory, you can run:
